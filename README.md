@@ -5,6 +5,6 @@ Este es un repositorio de ejemplo.
 2. Yo igual
 3. Yo tambien
 
-[GitHub] (https://github.com)
+[GitHub](https://github.com)
 
 ## Hola
